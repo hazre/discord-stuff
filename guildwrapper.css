@@ -44,15 +44,11 @@
 	left: 30%;
 }
 
-.guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM, .guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ {
-	display: none;
-}
-
 .guildsWrapper-5TJh6A .guilds-1q_RqH > .guild-1EfMGQ:first-child {
 	height: 25px;
 }
 
-.guildsWrapper-5TJh6A .guilds-1q_RqH > .guild-1EfMGQ:first-child:after {
+/*.guildsWrapper-5TJh6A .guilds-1q_RqH > .guild-1EfMGQ:first-child:after {
 	content: "DM's";
 	font-size: 12px;
     text-transform: uppercase;
@@ -67,7 +63,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-}
+}*/
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH > .guild-1EfMGQ:first-child .guildInner-3DSoA4 {
 	height: 20px !important;
